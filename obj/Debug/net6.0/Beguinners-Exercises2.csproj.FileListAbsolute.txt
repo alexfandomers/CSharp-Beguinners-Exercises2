@@ -1,0 +1,15 @@
+C:\C#\Beguinners-Exercises2\bin\Debug\net6.0\Beguinners-Exercises2.exe
+C:\C#\Beguinners-Exercises2\bin\Debug\net6.0\Beguinners-Exercises2.deps.json
+C:\C#\Beguinners-Exercises2\bin\Debug\net6.0\Beguinners-Exercises2.runtimeconfig.json
+C:\C#\Beguinners-Exercises2\bin\Debug\net6.0\Beguinners-Exercises2.dll
+C:\C#\Beguinners-Exercises2\bin\Debug\net6.0\Beguinners-Exercises2.pdb
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\Beguinners-Exercises2.csproj.AssemblyReference.cache
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\Beguinners-Exercises2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\Beguinners-Exercises2.AssemblyInfoInputs.cache
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\Beguinners-Exercises2.AssemblyInfo.cs
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\Beguinners-Exercises2.csproj.CoreCompileInputs.cache
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\Beguinners-Exercises2.dll
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\refint\Beguinners-Exercises2.dll
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\Beguinners-Exercises2.pdb
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\Beguinners-Exercises2.genruntimeconfig.cache
+C:\C#\Beguinners-Exercises2\obj\Debug\net6.0\ref\Beguinners-Exercises2.dll

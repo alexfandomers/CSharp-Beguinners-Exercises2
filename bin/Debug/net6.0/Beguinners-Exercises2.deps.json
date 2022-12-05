@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Beguinners-Exercises2/1.0.0": {
+        "runtime": {
+          "Beguinners-Exercises2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Beguinners-Exercises2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
